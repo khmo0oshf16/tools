@@ -1627,4 +1627,3 @@ elsif($Action eq "save")				 	# user wants to save a file
 	&PerformLogout;
 }
 &PrintPageFooter;
-
